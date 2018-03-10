@@ -1,0 +1,11 @@
+C:\Users\Edward\source\repos\WordStatistics\WordStatistics\bin\Debug\netcoreapp2.0\WordStatistics.deps.json
+C:\Users\Edward\source\repos\WordStatistics\WordStatistics\bin\Debug\netcoreapp2.0\WordStatistics.runtimeconfig.json
+C:\Users\Edward\source\repos\WordStatistics\WordStatistics\bin\Debug\netcoreapp2.0\WordStatistics.runtimeconfig.dev.json
+C:\Users\Edward\source\repos\WordStatistics\WordStatistics\bin\Debug\netcoreapp2.0\WordStatistics.dll
+C:\Users\Edward\source\repos\WordStatistics\WordStatistics\bin\Debug\netcoreapp2.0\WordStatistics.pdb
+C:\Users\Edward\source\repos\WordStatistics\WordStatistics\obj\Debug\netcoreapp2.0\WordStatistics.csprojResolveAssemblyReference.cache
+C:\Users\Edward\source\repos\WordStatistics\WordStatistics\obj\Debug\netcoreapp2.0\WordStatistics.csproj.CoreCompileInputs.cache
+C:\Users\Edward\source\repos\WordStatistics\WordStatistics\obj\Debug\netcoreapp2.0\WordStatistics.AssemblyInfoInputs.cache
+C:\Users\Edward\source\repos\WordStatistics\WordStatistics\obj\Debug\netcoreapp2.0\WordStatistics.AssemblyInfo.cs
+C:\Users\Edward\source\repos\WordStatistics\WordStatistics\obj\Debug\netcoreapp2.0\WordStatistics.dll
+C:\Users\Edward\source\repos\WordStatistics\WordStatistics\obj\Debug\netcoreapp2.0\WordStatistics.pdb
